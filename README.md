@@ -53,7 +53,7 @@ To reproduce or explore the analysis:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/obesity-classification.git
+git clone https://github.com/ashirts/obesity-classification.git
 
 # Open the Jupyter notebooks
 jupyter notebook
